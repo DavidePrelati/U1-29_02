@@ -1,0 +1,115 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+
+    background-image: url("sfondo.png");
+    background-size: cover;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* HEADER */
+
+
+header>.rectangle {
+
+    color: white;
+    background-color: #0362fc;
+    text-align: center;
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+/* MAIN */
+main {
+    color: black;
+    background-color: white;
+}
+
+main>article>.rectangle-m1 {
+
+
+    text-align: center;
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+main>aside>.rectangle {
+
+
+    text-align: center;
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+caption {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+a:visited {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+#div>iframe {
+    border-radius: 10% 10%;
+}
+
+th,
+td {
+
+    padding: 10px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.div-a>.p1-a {
+    font-weight: 700;
+    font-size: 150%;
+}
+
+/* FOOTER */
+footer>.rectangle {
+
+    color: white;
+    background-color: #2c5d85;
+    text-align: center;
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
