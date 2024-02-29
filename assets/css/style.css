@@ -103,6 +103,10 @@ aside>.rectangle>.div-a>.novita {
     margin-bottom: 10px;
 }
 
+main>article>.rectangle-m1>table>.div-table {
+    text-align: center;
+}
+
 th,
 td {
 
