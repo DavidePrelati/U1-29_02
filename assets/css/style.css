@@ -1,8 +1,7 @@
 /* IMPOSTAZIONI GENERALI */
 body {
 
-    background-image: url("sfondo.png");
-    background-size: cover;
+    background-image: url("../img/sfondo.png");
     width: 500px;
     text-align: center;
     margin-left: auto;
@@ -23,7 +22,7 @@ header>.rectangle {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 /* MAIN */
@@ -76,6 +75,34 @@ a {
     border-radius: 10% 10%;
 }
 
+aside>.rectangle>.novita>h2 {
+    font-weight: 700;
+}
+
+aside>.rectangle>.novita {
+    text-align: center;
+    background-color: #d9d1ba;
+    width: 250px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+aside>.rectangle>.div-a>.novita {
+    text-align: center;
+    background-color: #d9d1ba;
+    width: 250px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 th,
 td {
 
@@ -86,7 +113,7 @@ td {
 
 .div-a>.p1-a {
     font-weight: 700;
-    font-size: 150%;
+    font-size: 100%;
 }
 
 /* FOOTER */
